@@ -1,4 +1,7 @@
 
+using Ecomerce.ProdutoService.Context;
+using Microsoft.EntityFrameworkCore;
+
 namespace Ecomerce.ProdutoService
 {
     public class Program
@@ -14,6 +17,7 @@ namespace Ecomerce.ProdutoService
             builder.Services.AddEndpointsApiExplorer();
 
             builder.Services.AddSwaggerGen();
+
 
             var app = builder.Build();
 
