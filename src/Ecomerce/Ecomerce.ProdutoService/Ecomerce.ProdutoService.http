@@ -1,0 +1,6 @@
+@Ecomerce.ProdutoService_HostAddress = http://localhost:5065
+
+GET {{Ecomerce.ProdutoService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

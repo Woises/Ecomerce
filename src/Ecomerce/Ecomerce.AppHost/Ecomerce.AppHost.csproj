@@ -1,0 +1,19 @@
+<Project Sdk="Aspire.AppHost.Sdk/13.6.0">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AspireUseCliBundle>true</AspireUseCliBundle>
+    <UserSecretsId>559ee48a-ce6b-41d2-936d-845e87d1db44</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Ecomerce.PagamentoService\Ecomerce.PagamentoService.csproj" />
+    <ProjectReference Include="..\Ecomerce.PedidoService\Ecomerce.PedidoService.csproj" />
+    <ProjectReference Include="..\Ecomerce.ProdutoService\Ecomerce.ProdutoService.csproj" />
+    <ProjectReference Include="..\Ecomerce.WebApp\Ecomerce.WebApp.csproj" />
+  </ItemGroup>
+
+</Project>
