@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\repo\\Ecomerce\\src\\Ecomerce\\",
+  "WorkspaceRootPath": "C:\\repo\\Ecomerce\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E36C2B44-DB4E-9783-BF3C-4E84340AAC9D}|Ecomerce.PagamentoService\\Ecomerce.PagamentoService.csproj|c:\\repo\\ecomerce\\src\\ecomerce\\ecomerce.pagamentoservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E36C2B44-DB4E-9783-BF3C-4E84340AAC9D}|Ecomerce.PagamentoService\\Ecomerce.PagamentoService.csproj|c:\\repo\\ecomerce\\src\\ecomerce.pagamentoservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E36C2B44-DB4E-9783-BF3C-4E84340AAC9D}|Ecomerce.PagamentoService\\Ecomerce.PagamentoService.csproj|solutionrelative:ecomerce.pagamentoservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{95100736-FCD5-4972-B03A-41391EE645C8}|Ecomerce.AppHost\\Ecomerce.AppHost.csproj|c:\\repo\\ecomerce\\src\\ecomerce\\ecomerce.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{95100736-FCD5-4972-B03A-41391EE645C8}|Ecomerce.AppHost\\Ecomerce.AppHost.csproj|solutionrelative:ecomerce.apphost\\apphost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\repo\\Ecomerce\\src\\Ecomerce\\Ecomerce.PagamentoService\\Program.cs",
+              "DocumentMoniker": "C:\\repo\\Ecomerce\\src\\Ecomerce.PagamentoService\\Program.cs",
               "RelativeDocumentMoniker": "Ecomerce.PagamentoService\\Program.cs",
-              "ToolTip": "C:\\repo\\Ecomerce\\src\\Ecomerce\\Ecomerce.PagamentoService\\Program.cs",
+              "ToolTip": "C:\\repo\\Ecomerce\\src\\Ecomerce.PagamentoService\\Program.cs",
               "RelativeToolTip": "Ecomerce.PagamentoService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-03T01:08:37.214Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppHost.cs",
-              "DocumentMoniker": "C:\\repo\\Ecomerce\\src\\Ecomerce\\Ecomerce.AppHost\\AppHost.cs",
-              "RelativeDocumentMoniker": "Ecomerce.AppHost\\AppHost.cs",
-              "ToolTip": "C:\\repo\\Ecomerce\\src\\Ecomerce\\Ecomerce.AppHost\\AppHost.cs",
-              "RelativeToolTip": "Ecomerce.AppHost\\AppHost.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-03T01:05:19.921Z"
             }
           ]
         }
