@@ -18,6 +18,13 @@ namespace Ecomerce.ProdutoService
 
             builder.Services.AddSwaggerGen();
 
+            var mysqlConnection = builder.Configuration.GetConnectionString("DefaultConnection");
+
+            builder.Services.AddDbContext<AppDbContext>(options =>
+                                        options.UseMySql(mysqlConnection,
+                                        ServerVersion.AutoDetect(mysqlConnection)));
+
+
 
             var app = builder.Build();
 
