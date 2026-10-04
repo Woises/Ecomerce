@@ -1,5 +1,4 @@
-﻿
-namespace Ecomerce.ProdutoService.Models;
+﻿namespace Ecomerce.ProdutoService.Models;
 
 public class Produto
 {
