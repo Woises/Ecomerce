@@ -1,5 +1,6 @@
 <Solution>
   <Project Path="Ecomerce.AppHost/Ecomerce.AppHost.csproj" Id="95100736-fcd5-4972-b03a-41391ee645c8" />
+  <Project Path="Ecomerce.Estoque.Consumer/Ecomerce.Estoque.Consumer.csproj" />
   <Project Path="Ecomerce.Model/Ecomerce.Model.csproj" />
   <Project Path="Ecomerce.PagamentoService/Ecomerce.PagamentoService.csproj" />
   <Project Path="Ecomerce.PedidoService/Ecomerce.PedidoService.csproj" />
