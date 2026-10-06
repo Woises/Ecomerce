@@ -14,4 +14,7 @@ builder.AddProject<Projects.Ecomerce_WebApp>("web-frontend")
     .WithReference(pagamentoApi);
 
 
+builder.AddProject<Projects.Ecomerce_Pagamentos_Api>("ecomerce-pagamentos-api");
+
+
 builder.Build().Run();

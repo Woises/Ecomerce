@@ -10,6 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Ecomerce.Pagamentos.Api\Ecomerce.Pagamentos.Api.csproj" />
     <ProjectReference Include="..\Ecomerce.PagamentoService\Ecomerce.PagamentoService.csproj" />
     <ProjectReference Include="..\Ecomerce.PedidoService\Ecomerce.PedidoService.csproj" />
     <ProjectReference Include="..\Ecomerce.ProdutoService\Ecomerce.ProdutoService.csproj" />

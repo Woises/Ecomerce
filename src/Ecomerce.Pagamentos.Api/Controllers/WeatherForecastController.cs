@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace Ecomerce.PagamentoService.Controllers;
+namespace Ecomerce.Pagamentos.Api.Controllers;
 
 [ApiController]
 [Route("[controller]")]

@@ -3,6 +3,7 @@
   <Project Path="Ecomerce.Cliente.Producer/Ecomerce.Cliente.Producer.csproj" Id="30ed5522-f841-44a6-8629-59276493ab08" />
   <Project Path="Ecomerce.Estoque.Consumer/Ecomerce.Estoque.Consumer.csproj" />
   <Project Path="Ecomerce.Model/Ecomerce.Model.csproj" />
+  <Project Path="Ecomerce.Pagamentos.Api/Ecomerce.Pagamentos.Api.csproj" />
   <Project Path="Ecomerce.PagamentoService/Ecomerce.PagamentoService.csproj" />
   <Project Path="Ecomerce.PedidoService/Ecomerce.PedidoService.csproj" />
   <Project Path="Ecomerce.ProdutoService/Ecomerce.ProdutoService.csproj" />

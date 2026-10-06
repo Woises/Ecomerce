@@ -1,5 +1,5 @@
 
-namespace Ecomerce.PagamentoService;
+namespace Ecomerce.Pagamentos.Api;
 
 public class Program
 {
@@ -10,7 +10,7 @@ public class Program
         // Add services to the container.
 
         builder.Services.AddControllers();
-        // Learn more about configuring OpenAPI at https://aka.ms/giaspnet/openapi
+        // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
         builder.Services.AddEndpointsApiExplorer();
 
         builder.Services.AddSwaggerGen();
@@ -33,6 +33,7 @@ public class Program
             options.SwaggerEndpoint("/swagger/v1/swagger.json", "Ecomerce.PedidoService v1");
             options.RoutePrefix = string.Empty; // abre o swagger na raiz
         });
+
 
         app.MapControllers();
 
