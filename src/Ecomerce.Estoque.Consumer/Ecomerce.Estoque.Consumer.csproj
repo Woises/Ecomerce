@@ -6,6 +6,9 @@
 	<GenerateProgramFile>false</GenerateProgramFile>
   </PropertyGroup>
   <ItemGroup>
-	<PackageReference Include="Confluent.Kafka" Version="2.1.0" />
+	<PackageReference Include="Confluent.Kafka" Version="2.15.1" />
+	<PackageReference Include="Microsoft.Extensions.Configuration" Version="10.0.12" />
+	<PackageReference Include="Microsoft.Extensions.Hosting" Version="10.0.12" />
+	<PackageReference Include="Microsoft.Extensions.Logging" Version="10.0.12" />
   </ItemGroup>
 </Project>
