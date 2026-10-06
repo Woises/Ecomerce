@@ -1,3 +1,5 @@
+using System.Drawing;
+
 namespace Ecomerce.PedidoService.Models;
 
 public class PedidoItem
@@ -17,4 +19,7 @@ public class PedidoItem
     public int PedidoId { get; set; }
 
     public Pedido? Pedido { get; set; }
+
+    string[] colors = { "Red", "Green", "Blue", "Yellow", "Purple" };
+    
 }
